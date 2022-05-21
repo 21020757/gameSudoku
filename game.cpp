@@ -179,7 +179,7 @@ bool isAllFilled (Grid mainboard[][COLS]) {
     return true;
 }
 int randomNum(){
-    int ran = rand() % 16;
+    int ran = rand() % 15;
     return ran;
 }
 
@@ -353,7 +353,7 @@ void closeSDL(Grid board[][COLS]) {
 }
 
 SDL_Texture * loadString(const char * message, TTF_Font * font) {
-    SDL_Color blackColor = { 0, 0, 0 };
+    SDL_Color blackColor = { 0, 0, 0, 0 };
 
     SDL_Texture *text = nullptr;
 

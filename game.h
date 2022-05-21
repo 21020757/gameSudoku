@@ -8,7 +8,7 @@
 
 #include "header.h"
 #include "grid.h"
-
+#include <ctime>
 
 #define ROWS 9
 #define COLS 9
