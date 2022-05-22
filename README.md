@@ -7,7 +7,8 @@ Sinh viên: Nguyễn Đăng Dương - MSV: 21020757
 # ***1. Hướng dẫn cài đặt***
 * Tải file về từ [link](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F3w652s8wz326zkb%2FSudokugame.zip%2Ffile%3Ffbclid%3DIwAR0M-zgMhnrnBFx3sakaqlt53CLkKdyCmN0rRuTODzlaF7Xz7tVlV2sw2Wo&h=AT18cg7S6voOGEVVYWoAOzN-OBlqgMSqgPUqNGwUBEFqSX31NLDzSS43kJRbWmhKqT0d2Kdlz_Wk5rYKdbt8EfZWHPhRNK7MttuRzhOHrgUVdnvHyV1I5YgVoE3P_p71vORMYQ)
 * Giải nén file -> vào cmake-build-debug -> chạy untitled.exe
-***hoặc
+
+***hoặc***
 * cmd -> clone về
 
 # ***2. Mô tả chung***
