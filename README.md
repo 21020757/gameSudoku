@@ -23,7 +23,7 @@ Sinh viên: Nguyễn Đăng Dương - MSV: 21020757
 video test: https://youtu.be/m39O6ZkUZb0
 # ***4. Các kỹ thuật sử dụng***
 * SDL2-ttf, SDL2-image, SDL2-mixer
-* Struct, con trỏ, đệ quy
+* Struct, con trỏ, đệ quy, mảng
 
 # ***5. Kết luận***
 * Sau khi hoàn thiện dự án cuối kì, em đã phần nào nâng cao được khả năng lập trình của mình, nâng cao tư duy logic, biết thêm kiến thức mới. Dù gamecode chưa được tốt lắm nhưng em vẫn khá tâm đắc.
